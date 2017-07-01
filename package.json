@@ -1,9 +1,9 @@
 {
   "name": "decoration-example",
   "main": "./lib/decoration-example",
-  "version": "0.0.0",
+  "version": "0.1.1",
   "description": "Exercising Atom's Decoration API",
-  "repository": "https://github.com/atom/decoration-example",
+  "repository": "https://github.com/r26D/decoration-example",
   "license": "MIT",
   "engines": {
     "atom": ">=0.174.0 <2.0.0"
